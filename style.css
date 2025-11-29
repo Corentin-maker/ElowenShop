@@ -107,3 +107,14 @@ nav a{
     .products-grid{ grid-template-columns: 1fr; }
     .product img{ max-width: 100%; }
 }
+
+
+.product-detail img{
+        height: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+
+
